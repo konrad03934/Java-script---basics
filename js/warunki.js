@@ -32,11 +32,14 @@ switch (kolor) {
 			console.log("jakiś pedalski");
 }
 
-
+//do sprawdzenuia
 swich (true) {
 	case wzrostKaji > wzrostMateusz;
 	console.log("kaja jest wyższa");
 	break;
 	case wzrostKaji == wzrostMateusz;
-	console.log()
+	console.log("są równi");
+	break;
+	default:
+	console.log("mateusz jest wyższy");
 }
